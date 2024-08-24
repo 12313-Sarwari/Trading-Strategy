@@ -1,9 +1,9 @@
 Stock Trading Strategy Simulation
 
-Description
+Description:
 This project simulates a trading strategy based on multiple Exponential Moving Averages (EMAs) over historical stock data. The strategy is often referred to as the "Red-White-Blue" strategy, which attempts to identify buy and sell signals based on the crossover of short-term and long-term EMAs.
 
-Features
+Features:
 Downloads historical stock data using the Yahoo Finance API.
 Calculates EMAs for various periods.
 Implements a trading strategy based on the relationship between short-term and long-term EMAs.
